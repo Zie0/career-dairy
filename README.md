@@ -104,8 +104,8 @@ Next, navigate to `Tools > Options > Synchronization` to setup synchronization. 
 ## Fully Prepared Image
 We could elimiate much of the tedium of this install process if in the future we could simply flash an image that had the tools and configurations we needed in place before ever booting the pi. Primarily, WiFi tools and the Lubuntu desktop. Additionally, nordvpn and Joplin.
 
-## Snap Node and Yarn
-We may be able to utilize snapd for the handling of the build tools install. We would need to be able to specify v10.x for the snap package, else we may have a build failure. This iomprovement may help keep the rest of the OS more tidy if we decide we want to build Joplin on the Raspberry Pi.
+## Snap for Node and Yarn
+We may be able to utilize snapd for the handling of the build tools install. We would need to be able to specify v10.x for the snap package, else we may have a build failure. This improvement may help keep the rest of the OS more tidy if we decide we want to build Joplin on the Raspberry Pi.
 
 ## Create GUI Shortcut to Joplin
 With this method, Joplin must be started on the command line. An improvement that can be made is to create a script with an icon that can start up the application with a click.
