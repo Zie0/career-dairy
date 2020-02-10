@@ -96,7 +96,7 @@ Now we have dependencies to build Joplin in place. It's time to clone the Joplin
 Time to start up the app and sychronize it. To start the app, open the terminal and navigate to the git `joplin` directory that was created when the repo was cloned. From there run `ElectronClient/run-prod.sh` to start the application.
 
 Once Joplin is open select `Tools > Options > Encryption` to configure end-to-end encryption.
-If notes are synchronized before encryption Joplin will take some time to encrypt notes localy and in the cloud. It is much easier to do this step first if encryption is a requirement.
+If notes are synchronized before encryption Joplin will take some time to encrypt notes locally and in the cloud. It is much easier to do this step first if encryption is a requirement.
 
 Next, navigate to `Tools > Options > Synchronization` to setup synchronization. Dropbox is the most straight forward way to synchronize notes between this instance of Joplin and others running on personal devices including mobile phones. Nextcloud is another way to host notes for those seeking a follow-up weekend project.
 
