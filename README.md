@@ -2,7 +2,7 @@
 a Raspberry Pi for personal use at the office
 
 # Overview
-The purpose of this project is to put together a Raspberry Pi for personal use at the office. The Pi is to physcially separate work activities from personal activities (personal notes, email, shopping, social media, etc). Both Raspberry Pi and corporate computer will connect to a KVM switch. For my purposes the primary function will be for note taking with [Joplin](https://joplinapp.org/). Joplin has a CLI mode, however, we will require the Pi have a desktop environment for additional Joplin features and web browsing activities.
+The purpose of this project is to put together a Raspberry Pi for personal use at the office. The Pi is to physically separate work activities from personal activities (personal notes, email, shopping, social media, etc). Both Raspberry Pi and corporate computer will connect to a KVM switch. For my purposes the primary function will be for note taking with [Joplin](https://joplinapp.org/). Joplin has a CLI mode, however, we will require the Pi have a desktop environment for additional Joplin features and web browsing activities.
 
 # Bill of Materials
 The materials used to make this project successful are as follows:
