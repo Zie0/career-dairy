@@ -120,6 +120,9 @@ Steps for setting up nordvpn with helpful aliases.
 ## Improve Boot Speed
 Reduce the time the black screen that appears for while the display manager loads.
 
+## Full Disk Encryption
+For improved security and peace of mind. Without this, passers-by can remove the MicroSD card and mount it on their machine for easy viewing of potentially sensitive files.
+
 # Thanks
 Thanks to the following people that helped make this happen! This project would not exist (or would have a very steep learning curve) without you!
 * [The Raspberry Pi Foundation ](https://www.raspberrypi.org/about/)
