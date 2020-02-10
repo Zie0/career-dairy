@@ -118,7 +118,7 @@ With this method, Joplin must be started on the command line. An improvement tha
 Steps for setting up nordvpn with helpful aliases.
 
 ## Improve Boot Speed
-Reduce the time the black screen that appears for while the display manager loads.
+Reduce the time the black screen appears while the display manager loads.
 
 ## Full Disk Encryption
 For improved security and peace of mind. Without this, passers-by can remove the MicroSD card and mount it on their machine for easy viewing of potentially sensitive files.
