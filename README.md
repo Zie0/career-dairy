@@ -21,7 +21,7 @@ The materials used to make this project successful are as follows:
 # Roadblocks
 * There is no Jolpin AppImage for ARM64 machines
 * Joplin runs on electron which only runs on 64bit systems
-  * Raspbian, the officail RPi distro is currently only 32-bit
+  * Raspbian, the official RPi distro is currently only 32-bit
 * Pop!_OS is built for AMD64 machines. Pi is ARM.
   * mainly bc Pop uses gnome which does not run on ARM
 * Ubuntu Server for RPi does not have a GUI (Joplin can be run on the command line only if that is the only requirement)
